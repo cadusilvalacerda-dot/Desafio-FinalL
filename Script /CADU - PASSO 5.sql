@@ -1,4 +1,4 @@
-USE omnichannel_db;
++USE omnichannel_db;
 
 -- -----------------------------------------------------
 -- 1. Criação da Trigger de Auditoria de Preços
